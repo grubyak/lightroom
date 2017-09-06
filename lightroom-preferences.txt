@@ -1,0 +1,25 @@
+lightroom > preferences
+- general > automatically check for updates > on
+- general > when finished importing phtotos play > sosumi
+- general > when tether transfer finishes play > purr
+- general > when finished exporting photos play > submarine
+- presets > make defaults specific to camera serial number > off
+- presets > make defaults specific to camera iso setting > off
+- presets > store presets with this catalog > on
+- external editing > stack with original > on
+- external editing > template > yyyymmdd-hhmmss-suffix-nn
+- file handling > camera raw cache settings > ~/Desktop/apps/lightroom/cache
+- file handling > video cache settings > limit video cache size > 20 GB
+- performance > camera raw > use graphics processor > on
+
+lightroom > catalog settings
+- file handling > preview cache > standard preview size > auto
+- file handling > preview cache > preview quality > high
+- file handling > preview cache > automatically discard 1:1 previews > never
+- metadata > editing > offer suggestions from recently entered values > on
+- metadata > editing > include develop settings in metadata inside jpeg, tiff, png and psd > on
+- metadata > editing > automatically write changes into xmp > on
+- metadata > address lookup > look up city, state and country of gps coordinates to provide address suggestion > on
+- metadata > address lookup > export address suggestions whenever address fields are empty > on
+- metadata > face detection > automatically detect faces in all photos > on
+- metadata > exif > write date or time changes into propietary raw files > off
